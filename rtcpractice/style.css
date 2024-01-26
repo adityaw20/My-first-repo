@@ -1,0 +1,11 @@
+.head{text-align: center;
+    background-color: rgb(238, 134, 198);
+    color: white; 
+    font-size: 50px;}
+
+.img{height: 300px; 
+        margin-left:300px; 
+        box-shadow: 0 0 2px 2px #a3a3a3 ; 
+        border-radius: 10px;}
+
+.body{background-color:rgb(249, 240, 255)}

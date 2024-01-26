@@ -1,0 +1,19 @@
+highlight tag ==h1 to h6
+img
+bold
+italic
+underline
+big
+small
+subscript
+supeerscript
+break linee br
+horizontal ruler hr
+anchor tag href
+paragraph
+
+sementic tags
+header ta
+main --section , artical,aside
+footer
+
